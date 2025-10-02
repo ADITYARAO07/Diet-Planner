@@ -58,7 +58,7 @@ Design: Responsive layout with animations
 
 
 ![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/c3d97785f0fd2544cec4145186bf347efc5ad916/SCREEMSHOT5.png)
-##THE FINAL RESULT BASED ON USERS'S INPUT DATA 
+## THE FINAL RESULT BASED ON USERS'S INPUT DATA 
 
 
 
