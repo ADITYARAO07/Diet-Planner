@@ -1,0 +1,130 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up - StudyFlow</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #121212;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .login-container {
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+            background: #121212;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .logo {
+            width: 80px;
+            margin-bottom: 10px;
+        }
+        .welcome-text {
+            font-size: 28px; /* Increase the font size */
+            font-weight: bold; /* Make the text bold */
+            color: #fff;
+            text-shadow: 0 0 10px rgba(0, 188, 212, 0.8), 0 0 20px rgba(0, 188, 212, 0.8); /* Apply glowing effect */
+            margin-bottom: 10px;
+        }
+        .btn-google {
+            background-color: #444;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            border-radius: 20px;
+            padding: 10px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            width: 100%;
+        }
+        .btn-google:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 10px rgba(0, 188, 212, 0.8);
+        }
+        .divider-container {
+            display: flex;
+            align-items: center;
+            margin: 15px 0;
+            justify-content: center;
+        }
+        .divider {
+            border-top: 1px solid #bbb;
+            width: 30%;
+            margin: 0 10px;
+        }
+        .input-field {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 10px;
+            border: none;
+            outline: none;
+            background-color: #222;
+            color: white;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .input-field:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 10px rgba(0, 188, 212, 0.8);
+        }
+        .btn-primary {
+            background-color: #007bff;
+            color: white;
+            border-radius: 20px;
+            padding: 12px;
+            font-size: 16px;
+            width: 100%;
+            cursor: pointer;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: none;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+            transform: scale(1.1);
+            box-shadow: 0 0 10px rgba(0, 188, 212, 0.8);
+        }
+        .signup-link {
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        .signup-link a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .signup-link a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <img src="dietlogo.jpg" alt="Logo" class="logo">
+        <p class="welcome-text"><span class="emoji">👋</span> Welcome to DietPlanner</p>
+        <h3>Create your account</h3>
+        <button class="btn-google">
+            <img src="https://www.svgrepo.com/show/303108/google-icon-logo.svg" width="20"> Continue with Google
+        </button>
+        <div class="divider-container">
+            <div class="divider"></div>
+            <span>or</span>
+            <div class="divider"></div>
+        </div>
+        <form>
+            <input type="text" class="input-field" placeholder="First name">
+            <input type="text" class="input-field" placeholder="Last name (Optional)">
+            <input type="email" class="input-field" placeholder="Email address">
+            <input type="password" class="input-field" placeholder="Password">
+            <button type="button" class="btn-primary" onclick="location.href='mainpage.html'">Continue</button>
+        </form>
+        <p class="signup-link">Already have an account? <a href="loginpage.html"></a></p>
+    </div>
+</body>
+</html>
