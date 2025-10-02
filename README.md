@@ -40,10 +40,23 @@ Design: Responsive layout with animations
 
 Add downloadable PDF diet plans
 ![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/38b495b010a10195d14f0565b6d0895892df694c/SCREENSHOT1.png)
+#LOGIN PAGE
+
+
 ![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/c3d97785f0fd2544cec4145186bf347efc5ad916/SCREENSHOT2.png)
+##SIGN-UP PAGE
+
+
 ![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/c3d97785f0fd2544cec4145186bf347efc5ad916/SCREENSHOT3.png)
+##MAIN-PAGE
 ![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/c3d97785f0fd2544cec4145186bf347efc5ad916/SCREENSHOT4.png)
+##THE USER FILLS HIS DETAILS IN THE MAIN PAGE(AGE , WEIGHT , HEIGHT , GENDER , FITNESS GOAL , ACTIVITY LEVEL)
+
+
+
+
 ![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/c3d97785f0fd2544cec4145186bf347efc5ad916/SCREEMSHOT5.png)
+##THE FINAL RESULT BASED ON USERS'S INPUT DATA 
 
 
 
