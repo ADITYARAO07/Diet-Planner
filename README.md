@@ -7,16 +7,16 @@ This project allows users to **sign up, log in, enter personal details, and gene
 
 ---
 
-## 🚀 Features
-- 🔑 **Login & Sign-Up pages** with stylish UI  
-- 📝 **User Input Form** (age, weight, height, gender, fitness goal, activity level)  
-- 📊 **BMI Calculator** with health status categories  
-- 🍽️ **Personalized Diet Plan** including calories, protein, carbs, and fat  
-- 🎨 Modern and responsive design with hover effects and animations  
+   Features
+-  **Login & Sign-Up pages** with stylish UI  
+-  **User Input Form** (age, weight, height, gender, fitness goal, activity level)  
+-  **BMI Calculator** with health status categories  
+-  **Personalized Diet Plan** including calories, protein, carbs, and fat  
+-  Modern and responsive design with hover effects and animations  
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 PROJECT/
 │── loginpage.html # Login Page
 │── sign-up.html # Sign Up Page
@@ -40,5 +40,10 @@ Design: Responsive layout with animations
 
 Add downloadable PDF diet plans
 ![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/38b495b010a10195d14f0565b6d0895892df694c/SCREENSHOT1.png)
+![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/c3d97785f0fd2544cec4145186bf347efc5ad916/SCREENSHOT2.png)
+![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/c3d97785f0fd2544cec4145186bf347efc5ad916/SCREENSHOT3.png)
+![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/c3d97785f0fd2544cec4145186bf347efc5ad916/SCREENSHOT4.png)
+![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/c3d97785f0fd2544cec4145186bf347efc5ad916/SCREEMSHOT5.png)
+
 
 
