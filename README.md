@@ -31,8 +31,9 @@ PROJECT/
 │    ├── screenshot4.png
 │── style.css            # Custom CSS  
 │── README.md            # Documentation  
+```
 
-Tech Stack
+## Tech Stack
 
 Frontend: HTML, CSS, Bootstrap
 
