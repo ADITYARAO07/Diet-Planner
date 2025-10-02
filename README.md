@@ -25,5 +25,6 @@ CSS3 → Styling and responsive design
 JavaScript (Vanilla JS) → Functionality and interactivity
 
 Visual Studio Code → Development environment
+![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/38b495b010a10195d14f0565b6d0895892df694c/SCREENSHOT1.png)
 
 
