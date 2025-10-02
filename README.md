@@ -1,30 +1,44 @@
 # Diet-Planner
 https://adityarao07.github.io/Diet-Planner/
-The Diet Planner Web Application is a simple and user-friendly tool designed to help users create and manage personalized diet plans. The application provides an interactive interface where users can plan meals, view calorie intake, and stay on track with their health goals.
+# Diet Planner Website
 
-This project is built entirely with HTML, CSS, and JavaScript, ensuring lightweight performance and easy deployment.
+A simple and interactive **Diet Planner Web Application** built using **HTML, CSS, Bootstrap, and JavaScript**.  
+This project allows users to **sign up, log in, enter personal details, and generate a personalized diet plan** based on their age, weight, height, gender, activity level, and fitness goals.  
 
-✨ Features
+---
 
-✅ User-friendly interface for planning daily meals
+## 🚀 Features
+- 🔑 **Login & Sign-Up pages** with stylish UI  
+- 📝 **User Input Form** (age, weight, height, gender, fitness goal, activity level)  
+- 📊 **BMI Calculator** with health status categories  
+- 🍽️ **Personalized Diet Plan** including calories, protein, carbs, and fat  
+- 🎨 Modern and responsive design with hover effects and animations  
 
-✅ Add and organize meals (Breakfast, Lunch, Dinner, Snacks)
+---
 
-✅ View calories and nutrition breakdown
+## 📂 Project Structure
+PROJECT/
+│── loginpage.html # Login Page
+│── sign-up.html # Sign Up Page
+│── mainpage.html # Input Form Page
+│── dietplan.html # Final Diet Plan Page
+│── /screenshot # Folder for project screenshots
+│ ├── screenshot1.png
+│ ├── screenshot2.png
+│ ├── screenshot3.png
+│ ├── screenshot4.png
+│── style.css # Custom styles (if separated)
+│── README.md # Project documentation
 
-✅ Responsive design for desktop and mobile
+Tech Stack
 
-✅ Simple, clean, and lightweight (no backend required)
+Frontend: HTML, CSS, Bootstrap
 
-🛠️ Technologies Used
+Scripting: JavaScript
 
-HTML5 → Structure of the application
+Design: Responsive layout with animations
 
-CSS3 → Styling and responsive design
-
-JavaScript (Vanilla JS) → Functionality and interactivity
-
-Visual Studio Code → Development environment
+Add downloadable PDF diet plans
 ![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/38b495b010a10195d14f0565b6d0895892df694c/SCREENSHOT1.png)
 
 
