@@ -16,19 +16,21 @@ This project allows users to **sign up, log in, enter personal details, and gene
 
 ---
 
-##  Project Structure
+## 📂 Project Structure
+
+```text
 PROJECT/
-│── loginpage.html # Login Page
-│── sign-up.html # Sign Up Page
-│── mainpage.html # Input Form Page
-│── dietplan.html # Final Diet Plan Page
-│── /screenshot # Folder for project screenshots
-│ ├── screenshot1.png
-│ ├── screenshot2.png
-│ ├── screenshot3.png
-│ ├── screenshot4.png
-│── style.css # Custom styles (if separated)
-│── README.md # Project documentation
+│── loginpage.html       # Login Page  
+│── sign-up.html         # Sign Up Page  
+│── mainpage.html        # Input Form Page  
+│── dietplan.html        # Final Diet Plan Page  
+│── /screenshot          # Folder for screenshots  
+│    ├── screenshot1.png
+│    ├── screenshot2.png
+│    ├── screenshot3.png
+│    ├── screenshot4.png
+│── style.css            # Custom CSS  
+│── README.md            # Documentation  
 
 Tech Stack
 
@@ -38,19 +40,18 @@ Scripting: JavaScript
 
 Design: Responsive layout with animations
 
-Add downloadable PDF diet plans
 ![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/38b495b010a10195d14f0565b6d0895892df694c/SCREENSHOT1.png)
-#LOGIN PAGE
+# LOGIN PAGE
 
 
 ![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/c3d97785f0fd2544cec4145186bf347efc5ad916/SCREENSHOT2.png)
-##SIGN-UP PAGE
+## SIGN-UP PAGE
 
 
 ![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/c3d97785f0fd2544cec4145186bf347efc5ad916/SCREENSHOT3.png)
-##MAIN-PAGE
+## MAIN-PAGE
 ![image alt](https://github.com/ADITYARAO07/Diet-Planner/blob/c3d97785f0fd2544cec4145186bf347efc5ad916/SCREENSHOT4.png)
-##THE USER FILLS HIS DETAILS IN THE MAIN PAGE(AGE , WEIGHT , HEIGHT , GENDER , FITNESS GOAL , ACTIVITY LEVEL)
+## THE USER FILLS HIS DETAILS IN THE MAIN PAGE(AGE , WEIGHT , HEIGHT , GENDER , FITNESS GOAL , ACTIVITY LEVEL)
 
 
 
