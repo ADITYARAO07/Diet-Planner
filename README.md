@@ -4,4 +4,9 @@ This is a Diet Planne project made to make diet effforless
 
 Here are some screenshots:  
 
-![Screenshot 1](SCREENSHOT/SCREENSHOT1.png)  
+# My Website Project  
+
+Here are some screenshots:  
+
+![Screenshot 1](PROJECTS/SCREENSHOT1.png)  
+
